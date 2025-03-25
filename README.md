@@ -1,5 +1,3 @@
-### Hi! I'm Roberto Salas 👋
+### Hey there! 👋
 
-I'm a political scientist with a master in methods currently living and working in Chile. I'm a opensource enthusiast and supporter of different projects mainly related to Python and R language. I use Linux and Unix based operating systems since the year 2001 so I have a large amount experience managing workflows on the platforms. I have interest in social good so if you have a interesting project don't hesitate to contact me.
-
-📫 Follow me on Twitter (@robsalasco)
+I'm a political scientist with a master's degree in methods of research who's totally in love with the world of open source and coding. Right now, I'm at Chile looking for new horizons. As developer I've been living and breathing Linux and Unix-based systems since 2001 – that's over two decades of tech adventures! My coding playground mostly revolves around Python, R and Ruby, where I get to blend my research skills with some serious technical magic. When I'm not diving deep into data or political research, I'm all about finding cool projects that can make a real difference in the world. I'm that guy who gets excited about open-source possibilities and believes technology can be a powerful tool for social good. Whether it's a challenging research project, an innovative tech solution, or a chance to contribute to something meaningful, I'm always ready to jump in and make things happen. Drop me a line if you've got an interesting project – I'm always hungry for the next big challenge!
